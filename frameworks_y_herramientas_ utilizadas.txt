@@ -1,0 +1,10 @@
+# Frameworks, software y herramientas
+
+- **Arduino IDE:** entorno de desarrollo integrado (IDE) para editar, compilar, cargar y visualizar datos en Serial Monitor.
+- **Arduino Core / paquete de soporte de Swan R5 (STM32):** plataforma de software que permite compilar los sketches para el microcontrolador. - **STM32CubeProgrammer (DFU):** herramienta de programación del microcontrolador mediante el método de carga seleccionado.
+- **Arduino C/C++:** lenguaje de los sketches (`setup`, `loop`, `analogRead`, `digitalWrite`).
+- **Git:** sistema de control de versiones.
+- **GitHub:** plataforma de alojamiento de repositorios y seguimiento de incidencias.
+- **CAD 2D, SVG y DXF:** formatos para el patrón de corte; 
+- **RM098:** multímetro utilizado en pruebas de continuidad, resistencia y voltaje.
+
